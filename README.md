@@ -20,7 +20,9 @@
   <a href="https://www.heroku.com/deploy/?template=https://github.com/strapi/strapi-heroku-template">
     <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
   </a>
-
+  <a href="https://www.heroku.com/deploy/?template=https://github.com/strapi/strapi-heroku-template">
+    <img src="https://assets.strapi.io/uploads/Deploy_button_heroku_b1043fc67d.png" />
+  </a>
   <a href="https://render.com/docs/deploy-strapi">
     <img src="https://assets.strapi.io/uploads/deploy_render_e076b6f23a.png" height="44" />
   </a>
